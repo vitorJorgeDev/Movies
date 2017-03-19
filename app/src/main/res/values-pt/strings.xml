@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filmes</string>
+    <string name="tv_users_login">Usuario</string>
+    <string name="tv_password_login">Senha</string>
+    <string name="btn_login_login">Entrar</string>
+    <string name="chk_keepingLoged_login">Parmanecer Logado</string>
+    <string name="title_activity_main_screen_nv">Filmes Favoritos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_myName_about">Desenvolvido por: Vitor Jorge</string>
+    <string name="tv_myEmail_about">vitor.cesar.jorge@gmail.com</string>
+    <string name="tv_version_about">Versão </string>
+    <string name="tv_playerName_register">Filme</string>
+    <string name="tv_playerAge_register">Ano</string>
+    <string name="tv_playerType_register">Categoria</string>
+    <string name="tv_playerNacionality_register">Nacionalidade</string>
+    <string name="btn_registerPlayer_register">Cadastrar</string>
+    <string name="btn_excluir_register">EXCLUIR</string>
+    <string name="btn_register_nav">Cadastro</string>
+    <string name="btn_show_nav">Exibir</string>
+    <string name="btn_about_nav">Sobre</string>
+    <string name="btn_leave_nav">Sair</string>
+    <string name="tv_header_nav">Filmes Favoritos</string>
+    <string name="ad_setTitle_login">Problema com a internet</string>
+    <string name="ad_setMessage_login">"Conexão com internet inexistente, verifique sua conexão!"</string>
+
+    //
+
+    <string name="ad_setTitle_Register">Excluir?</string>
+    <string name="ad_setMessage_Register">Deseja realmente excluir o filme?</string>
+    <string name="btn_update_Register">Atualizar</string>
+    <string name="tst_DatabaseProblema_Login">Problema ao abrir o banco</string>
+    <string name="tst_enterinfo_Login">Favor digitar as informaçoes</string>
+    <string name="tst_invalidUser">Usuario ou senha Inválido</string>
+    <string name="tst_userNotSaved">Não foi possivel salvar usuario no banco de dados.</string>
+    <string name="tv_errorGetInfo">Erro</string>
+    <string name="tst_deleteMessage">Para excluir dê um longo click</string>
+
+
+</resources>

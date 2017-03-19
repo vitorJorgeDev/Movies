@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_register"
+            android:icon="@drawable/register"
+            android:title="@string/btn_register_nav" />
+        <item
+            android:id="@+id/nav_show"
+            android:icon="@drawable/show"
+            android:title="@string/btn_show_nav" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/about"
+                android:title="@string/btn_about_nav" />
+            <item
+                android:id="@+id/nav_leave"
+                android:icon="@drawable/exit"
+                android:title="@string/btn_leave_nav" />
+
+        </menu>
+    </item>
+
+</menu>

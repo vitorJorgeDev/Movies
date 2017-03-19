@@ -1,0 +1,41 @@
+
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="tv_users_login">User</string>
+    <string name="tv_password_login">Password</string>
+    <string name="btn_login_login">Submit</string>
+    <string name="chk_keepingLoged_login">Keeping logged in</string>
+    <string name="title_activity_main_screen_nv">Favorite Movies</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_myName_about">Developed by: Vitor Jorge</string>
+    <string name="tv_myEmail_about">vitor.cesar.jorge@gmail.com</string>
+    <string name="tv_version_about">Version </string>
+    <string name="tv_playerName_register">Movie</string>
+    <string name="tv_playerAge_register">Year</string>
+    <string name="tv_playerType_register">Category</string>
+    <string name="tv_playerNacionality_register">Nacionality</string>
+    <string name="btn_registerPlayer_register">Register</string>
+    <string name="btn_excluir_register">Delete</string>
+    <string name="btn_register_nav">REGISTER</string>
+    <string name="btn_show_nav">SHOW</string>
+    <string name="btn_about_nav">ABOUT</string>
+    <string name="btn_leave_nav">EXIT</string>
+    <string name="tv_header_nav">Favorite Movies</string>
+    <string name="ad_setTitle_login">No Internet</string>
+    <string name="ad_setMessage_login">"No Internet, check your connection!"</string>
+
+    //
+
+    <string name="ad_setTitle_Register">Delete?</string>
+    <string name="ad_setMessage_Register">Do you really want to delete the movie?</string>
+    <string name="btn_update_Register">Update</string>
+    <string name="tst_DatabaseProblema_Login">Database Problem</string>
+    <string name="tst_enterinfo_Login">Please enter the information</string>
+    <string name="tst_invalidUser">Invalid user or password</string>
+    <string name="tst_userNotSaved">Unable to save user to database</string>
+    <string name="tv_errorGetInfo">Error</string>
+    <string name="tst_deleteMessage">To delete make a long click</string>
+
+</resources>
